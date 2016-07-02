@@ -1,0 +1,9 @@
+# Ignore everything
+*
+
+# Except
+!.gitignore
+!.bash_profile
+
+# And if in subdirectories
+!*/
